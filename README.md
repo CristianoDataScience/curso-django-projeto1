@@ -10,7 +10,7 @@ O objetivo principal deste projeto é desenvolver um modelo de previsão de vend
 
 O conjunto de dados utilizado é o "Boston Housing Dataset", disponível no repositório de Machine Learning da UCI. Ele contém informações como taxa de criminalidade, proporção de unidades residenciais, entre outras, para diferentes bairros em Boston.
 
-![Imagem de Boston](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fpulse%2Fprevendo-o-pre%25C3%25A7o-de-im%25C3%25B3veis-com-machine-learning-diego-rosa&psig=AOvVaw19PljnuZO9XXj4GSYLDIdS&ust=1706736799797000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCfk5eIhoQDFQAAAAAdAAAAABAE)
+![Imagem de Boston](https://prd-us-brc-wapp-01.azurewebsites.net/content/images/2020/10/afinal-vale-a-pena-investir-em-uma-casa-para-vender.jpg)
 
 ## Tecnologias Utilizadas
 
