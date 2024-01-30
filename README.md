@@ -18,8 +18,8 @@ O projeto utiliza as seguintes tecnologias:
 
 - Python
 - Jupyter Notebooks
-- Bibliotecas de Aprendizado de Máquina, como Scikit-Learn e TensorFlow
-- Visualização de dados com Matplotlib e Seaborn
+- Bibliotecas de Aprendizado de Máquina, como Scikit-Learn
+- Visualização de dados com Matplotlib e Seaborn, plotly
 
 ## Estrutura do Projeto
 
@@ -34,4 +34,4 @@ O projeto está estruturado da seguinte forma:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/previsao-vendas-boston.git
+   git clone https://github.com/CristianoDataScience/curso-django-projeto1.git
